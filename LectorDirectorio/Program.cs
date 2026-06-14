@@ -1,7 +1,7 @@
 ﻿using System.IO;
 using nameespaceArchivo;
 //path a nalizar 
-string path = "";
+string? path = "";
 do
 {
     Console.WriteLine("Ingrese el nombre de un directorio ");
